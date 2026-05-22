@@ -5,7 +5,7 @@ import { viteBundler } from "@vuepress/bundler-vite";
 export default defineUserConfig({
   // 如果部署到 https://<username>.github.io/<repo-name>/，请将 base 设置为 "/<repo-name>/"
   // 例如仓库名为 vuepress-starter，则设置为 "/vuepress-starter/"
-  base: "/",
+  base: "/portfolio/",
 
   lang: "zh-CN",
 
